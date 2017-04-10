@@ -10,6 +10,13 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Extra folder
+[Ee]xternals
+
+# Extras
+*.iobj
+*.ipdb
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
